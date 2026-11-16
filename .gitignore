@@ -46,6 +46,5 @@ Desktop.ini
 # data
 .csv
 #model
-.ipynb
 .md
-.py
+.ipynb
