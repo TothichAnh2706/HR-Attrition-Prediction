@@ -43,3 +43,8 @@ $RECYCLE.BIN/
 Thumbs.db
 ehthumbs.db
 Desktop.ini
+# data
+.csv
+#model
+.ipynb
+.md
