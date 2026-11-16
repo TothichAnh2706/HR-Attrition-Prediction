@@ -28,8 +28,7 @@ Hệ thống AI phân tích và dự đoán nguy cơ nhân viên nghỉ việc (
 │   └── model_meta.json             # Thông tin tham số & chỉ số đánh giá (Accuracy, Recall, F1...)
 ├── streamlit_app.py                # Ứng dụng Web Dashboard giao diện Streamlit
 ├── main.py                         # Backend REST API bằng FastAPI
-├── train_and_export.py             # Script tự động huấn luyện & xuất model artifact
-├── colap.ipynb                     # Notebook phân tích, thử nghiệm và so sánh mô hình
+├── train_and_export.py             # Script tự động huấn luyện & xuất model artifact                    
 ├── requirements.txt                # Danh sách thư viện Python cần thiết
 ├── Dockerfile                      # Cấu hình container Docker / Cloud Run
 └── README.md                       # Tài liệu hướng dẫn sử dụng và triển khai
